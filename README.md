@@ -23,6 +23,7 @@ Completed Steps:
 * Cross validation
 * Selection of Models: Decision Tree, Random Forest, and Gradient Boosting
 * Evaluation of Models
+
 Outcome: I am being able to reduce the False Positive Errors of such loan prediction problem completely using Gradient Boosting Model,
          which is a great advantage for the PeerLoanKart financial company and its customers as well.
 
